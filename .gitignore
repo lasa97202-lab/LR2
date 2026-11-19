@@ -9,3 +9,4 @@ build/
 *.so
 *.exe
 *.dll
+*:Zone.Identifier
